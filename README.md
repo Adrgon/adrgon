@@ -1,7 +1,8 @@
 
 ### Hi, I'm Adrian 👋
-
-Principal Software Architect at [ANSES](https://anses.gob.ar) And Teacher at [UDESA](https://udesa.edu.ar/)
+Lic en Comunicacion Audivisual
+Software Architect at [ANSES](https://anses.gob.ar) 
+Teacher at [UDESA](https://udesa.edu.ar/)
 
 - building things in JavaScript - mostly React Native and GraphQL! 💚
 - check out my page (http://algonzalez.me) 👀
