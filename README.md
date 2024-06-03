@@ -2,7 +2,7 @@
 ### Hi, I'm Adrian 👋
 Lic en Comunicacion Audivisual
 Software Architect at [ANSES](https://anses.gob.ar) 
-Teacher at [UDESA](https://udesa.edu.ar/)
+Teacher at [CODERHOUSE](https://coderhouse.com/)
 
 - building things in JavaScript - Web Sites, Apps, Mobile Apps, PWA 💚
 - check out my page (http://algonzalez.me) 👀
