@@ -6,4 +6,4 @@ Teacher at [CODERHOUSE](https://coderhouse.com/)
 
 - building things in JavaScript - Web Sites, Apps, Mobile Apps, PWA 💚
 - check out my page (http://algonzalez.me) 👀
-- or to get in touch, feel free to message me on [Twitter](https://twitter.com/adrgon)
+- or to get in touch, feel free to message me on [X](https://x.com/adrgon) [Twitter](https://twitter.com/adrgon)
